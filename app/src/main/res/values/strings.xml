@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_new_username">Input Username</string>
+    <string name="hint_new_password">Input Password</string>
+    <string name="hint_retype">Confirm Password</string>
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_product_description">Description</string>
+    <string name="hint_quantity">Quantity</string>
+    <string name="view_quantity">Stock</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_about">About</string>
+</resources>
